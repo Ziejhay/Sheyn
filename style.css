@@ -1,0 +1,25 @@
+body{
+  animation: color-me-in 20s ease;
+  background: gray;
+}
+
+
+
+@keyframes color-me-in{
+ 10%{
+   background-image: url(/98.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ 20% {
+   background-image: url(/997.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ 30% {
+   background-image: url(/3.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ 
+  }
